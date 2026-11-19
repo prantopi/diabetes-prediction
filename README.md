@@ -1,6 +1,6 @@
 # Diabetes prediction with logistic regression
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prantopi/Diabetic-prediction-/blob/main/diabetes_predictml.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prantopi/diabetes-prediction/blob/main/diabetes_predictml.ipynb)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
