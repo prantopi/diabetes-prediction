@@ -1,9 +1,16 @@
-# Diabetes prediction with logistic regression
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/banner-dark.svg">
+    <img src="docs/banner-light.svg" width="100%" alt="Diabetes Prediction: logistic regression on 100,000 patient records, from eight health measurements.">
+  </picture>
+</p>
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prantopi/diabetes-prediction/blob/main/diabetes_predictml.ipynb)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+<p align="center">
+  <a href="https://colab.research.google.com/github/prantopi/diabetes-prediction/blob/main/diabetes_predictml.ipynb"><img src="https://img.shields.io/badge/Open_in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Open in Colab"></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+</p>
 
 A logistic regression model that predicts whether a patient has diabetes from eight health measurements. This was one of my first machine learning projects (2023).
 
